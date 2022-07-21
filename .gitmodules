@@ -1,0 +1,3 @@
+[submodule "git_project_floder"]
+	path = git_project_floder
+	url = ./git-demo/git_project_floder/
